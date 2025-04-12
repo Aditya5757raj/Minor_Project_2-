@@ -61,7 +61,7 @@ function Navbar() {
                         </NavItem>
                         <NavItem active={activeTab === 'products'}>
                             <NavLinks to='/products' onClick={() => handleTabClick('products')}>
-                                Products
+                                About us
                             </NavLinks>
                         </NavItem>
                         <NavItemBtn>
