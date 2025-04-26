@@ -8,7 +8,7 @@ export const homeObjOne = {
       'Get access to DevConnect, where you can collaborate on code effortlessly with real-time updates, without any delays.',
     buttonLabel: 'Get Started',
     imgStart: '',
-    img: require('../images/svg-1.svg'),
+    img: require('../images/feature.png'),
     alt: 'Code Collaboration'
   };
   
@@ -22,7 +22,7 @@ export const homeObjOne = {
       'We ensure secure collaboration with encrypted communication. Work confidently from any location with full data security.',
     buttonLabel: 'Learn More',
     imgStart: '',
-    img: require('../images/svg-1.svg'),
+    img: require('../images/code.jpg'),
     alt: 'Secure Coding'
   };
   
@@ -36,7 +36,7 @@ export const homeObjOne = {
       "Get started with DevConnect instantly. No complex installations—just log in and begin collaborating with your team.",
     buttonLabel: 'Start Now',
     imgStart: 'start',
-    img: require('../images/svg-1.svg'),
+    img: require('../images/code.jpg'),
     alt: 'Quick Setup'
   };
   
