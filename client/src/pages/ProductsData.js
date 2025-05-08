@@ -24,7 +24,7 @@ export const homeObjOne = {
       'Whether it’s remote teams or coding interviews, DevConnect integrates video calls, synchronized code editing, and instant feedback to enhance collaboration in real-time, making remote work feel like teamwork.',
     buttonLabel: 'Learn More',
     imgStart: 'start',
-    img: require('../images/svg-2.svg'),
+    img: require('../images/image.png'),
     alt: 'Real-Time Communication'
   };
   
@@ -38,7 +38,7 @@ export const homeObjOne = {
       'With DevConnect’s integration with the Piston API, you can instantly execute code across multiple languages. Enjoy faster debugging and testing, all while collaborating with others in real-time.',
     buttonLabel: 'Start Coding Now',
     imgStart: 'start',
-    img: require('../images/svg-1.svg'),
+    img: require('../images/code.jpg'),
     alt: 'Code Execution'
   };
   

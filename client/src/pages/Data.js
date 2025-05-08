@@ -43,9 +43,9 @@ export const devConnectObjOne = {
       'DevConnect transformed our team collaboration and increased productivity!',
     description:
       "The real-time features and ease of use are unparalleled. DevConnect has been a game-changer for our projects.",
-    buttonLabel: 'View Case Study',
+    buttonLabel: 'Get Started',
     imgStart: 'start',
-    img: require('../images/VideoConferencing.png'),
+    img: require('../images/feature.png'),
     alt: 'Testimonial',
     start: 'true'
   };
