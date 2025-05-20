@@ -30,6 +30,7 @@
   },
   "scripts": {
     "dev": "react-scripts start",
+    "build": "react-scripts build",
     "build:client": "cd client && npm install && npm run build",
     "start": "npm run build:client && cd backend && npm install && npm run server:prod",
     "test": "react-scripts test",
